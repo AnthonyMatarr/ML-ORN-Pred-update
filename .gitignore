@@ -1,13 +1,8 @@
-## Data
-data/processed/
-data/raw/
-
-#DS Store (MacOS files)
-**/.DS_Store
-
-##Pycache
-src/__pycache__/
-
-##Results
-results/figures
-results/tables
+/data
+/results
+/.vscode
+/models/logs
+/models/tune_results
+*.DS_Store*
+/notebooks_old/
+*__pycache__*
