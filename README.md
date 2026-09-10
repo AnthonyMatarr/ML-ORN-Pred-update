@@ -1,4 +1,6 @@
-# Update to models developed for `Artificial Intelligence Outperforms a Nomogram for Osteoradionecrosis Prognostication Following Fibula Free Flap Reconstruction in Oral Cancer Patients`
+# Update to models developed for manuscript titled: _Artificial Intelligence Outperforms a Nomogram for Osteoradionecrosis Prognostication Following Fibula Free Flap Reconstruction in Oral Cancer Patients_
+
+<a href="https://doi.org/10.5281/zenodo.22683215"><img src="https://zenodo.org/badge/1359569761.svg" alt="DOI"></a>
 
 ## Description
 This project builds on the implementation of various Machine Learning (ML) models and a logistic regression-based nomogram to predict post-operative occurrence of osteoradionecrosis (ORN) in head and neck cancer patients receiving fibula flap reconstruction after tumor excision and segmental mandibulectomy. The code for the original manuscript<sup>1</sup> can be found at 
